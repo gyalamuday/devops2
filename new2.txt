@@ -1,0 +1,5 @@
+<<<<<<< Updated upstream
+subtraction
+=======
+addition
+>>>>>>> Stashed changes
