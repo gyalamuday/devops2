@@ -1,3 +1,4 @@
 TO TeST STASH
+stash file
 
 -----------------------
